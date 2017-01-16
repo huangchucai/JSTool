@@ -1,4 +1,4 @@
-Created a object container common tools used a lot in writing javascript when adding event. Try to figure out the compatible problem against horrible IE. Just for practice.     
+Created a object contained common tools used a lot for adding event. Try to figure out the compatible problem against horrible IE. Just for practice.     
 
 This object has these method temporaily:
 
