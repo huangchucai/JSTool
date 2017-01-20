@@ -11,8 +11,7 @@ This object has these method temporaily:
 - getButton(event)
 - getWheelData(event)
 - getChardCode(event)
-<<<<<<< Updated upstream
-=======
+
 
 
 Add encapsulated ajax tool function.
@@ -30,4 +29,16 @@ opt = {
 	erro: function () {} //when reuqest failed, this function will be called.
 }
 ```
->>>>>>> Stashed changes
+
+
+Add encapsulated jsonp tool function.
+
+```javascript
+//params
+opt = {
+	url: '', //request url 
+	data: {}, //data passed in
+	callback: '', //name of the callback function 
+	succ: function () {}, //when reuqest succeed, this function will be called.
+}
+```
